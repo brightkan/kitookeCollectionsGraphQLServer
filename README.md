@@ -1,0 +1,1 @@
+This is a graphql server for the kitooke collections ecommerce app
